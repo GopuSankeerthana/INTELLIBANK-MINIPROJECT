@@ -1,0 +1,61 @@
+transaction_id,user_id,amount,description,category,merchant,timestamp
+1,user123,50000.0,Monthly salary,other,Company,2024-10-01 00:00:00
+2,user123,-15000.0,Rent payment,other,Landlord,2024-10-01 00:00:00
+3,user123,-3200.0,Grocery shopping,food,BigBasket,2024-10-05 00:00:00
+4,user123,-800.0,Uber to office,transport,Uber,2024-10-08 00:00:00
+5,user123,50000.0,Monthly salary,other,Company,2024-11-01 00:00:00
+6,user123,-15000.0,Rent payment,other,Landlord,2024-11-01 00:00:00
+7,user123,-1800.0,Grocery at BigBasket,food,BigBasket,2024-11-03 00:00:00
+8,user123,-2200.0,Zomato food delivery,food,Zomato,2024-11-06 00:00:00
+9,user123,-600.0,Metro recharge,transport,Metro,2024-11-04 00:00:00
+10,user123,-1200.0,Phone bill,bills,Operator,2024-11-05 00:00:00
+11,user123,-2500.0,Restaurant dinner,food,Restaurant,2024-11-08 00:00:00
+12,user123,-3500.0,Shopping at mall,shopping,Mall,2024-11-10 00:00:00
+13,user123,-900.0,Uber ride,transport,Uber,2024-11-12 00:00:00
+14,user123,-2000.0,Electricity bill,bills,Board,2024-11-15 00:00:00
+15,user123,-1500.0,Internet bill,bills,Provider,2024-11-18 00:00:00
+16,user123,50000.0,Monthly salary,other,Company,2024-12-01 00:00:00
+17,user123,-15000.0,Rent payment,other,Landlord,2024-12-01 00:00:00
+18,user123,-50000.0,Electronics purchase,shopping,Electronics Store,2024-12-10 00:00:00
+19,user123,-2000.0,Grocery,food,BigBasket,2024-12-03 00:00:00
+20,user123,-1800.0,Zomato delivery,food,Zomato,2024-12-07 00:00:00
+21,user123,-1200.0,Netflix subscription,other,Netflix,2024-12-05 00:00:00
+22,user123,-800.0,Uber,transport,Uber,2024-12-09 00:00:00
+23,user123,-3000.0,Shopping,shopping,Amazon,2024-12-14 00:00:00
+24,user123,-1100.0,Phone bill,bills,Operator,2024-12-16 00:00:00
+25,user123,50000.0,Monthly salary,other,Company,2025-01-01 00:00:00
+26,user123,-15000.0,Rent payment,other,Landlord,2025-01-01 00:00:00
+27,user123,-2800.0,Grocery,food,BigBasket,2025-01-04 00:00:00
+28,user123,-1500.0,Restaurant,food,Restaurant,2025-01-08 00:00:00
+29,user123,-700.0,Metro and cab,transport,Metro,2025-01-06 00:00:00
+30,user123,-2500.0,Online shopping,shopping,Flipkart,2025-01-12 00:00:00
+31,user123,-2000.0,Electricity bill,bills,Board,2025-01-15 00:00:00
+32,user123,50000.0,Monthly salary,other,Company,2025-02-01 00:00:00
+33,user123,-15000.0,Rent payment,other,Landlord,2025-02-01 00:00:00
+34,user123,-3000.0,Grocery,food,BigBasket,2025-02-05 00:00:00
+35,user123,-2400.0,Zomato and cafe,food,Zomato,2025-02-10 00:00:00
+36,user123,-900.0,Uber,transport,Uber,2025-02-14 00:00:00
+37,user123,-1800.0,Bills,bills,Provider,2025-02-18 00:00:00
+38,user123,-2200.0,Shopping,shopping,Mall,2025-02-22 00:00:00
+39,user123,-1500.0,Restaurant,food,Restaurant,2025-02-28 00:00:00
+51,user123,-1200.0,Phone bill,bills,Operator,2025-02-02 00:00:00
+52,user123,-1800.0,Grocery,food,BigBasket,2025-02-04 00:00:00
+53,user123,-600.0,Metro recharge,transport,Metro,2025-02-07 00:00:00
+54,user123,-2500.0,Electricity bill,bills,Board,2025-02-12 00:00:00
+55,user123,-900.0,Uber ride,transport,Uber,2025-02-15 00:00:00
+56,user123,-3200.0,Zomato and restaurant,food,Zomato,2025-02-18 00:00:00
+57,user123,-1500.0,Internet bill,bills,Provider,2025-02-20 00:00:00
+58,user123,-1100.0,Coffee and snacks,food,Cafe,2025-02-25 00:00:00
+59,user123,-2000.0,Online shopping,shopping,Flipkart,2025-02-26 00:00:00
+60,user123,-800.0,Cab to airport,transport,Uber,2025-02-27 00:00:00
+40,user123,50000.0,Monthly salary,other,Company,2025-03-01 00:00:00
+41,user123,-15000.0,Rent payment,other,Landlord,2025-03-01 00:00:00
+42,user123,-4000.0,Grocery and supplies,food,BigBasket,2025-03-02 00:00:00
+43,user123,-3500.0,Restaurant and delivery,food,Zomato,2025-03-03 00:00:00
+44,user123,-4500.0,Weekly grocery,food,BigBasket,2025-03-04 00:00:00
+45,user123,-4000.0,Food and dining,food,Restaurant,2025-03-05 00:00:00
+46,user123,-1200.0,Uber and metro,transport,Uber,2025-03-02 00:00:00
+47,user123,-1800.0,Transport,transport,Metro,2025-03-04 00:00:00
+48,user123,-3000.0,Online purchase,shopping,Amazon,2025-03-01 00:00:00
+49,user123,-2500.0,Electricity and phone,bills,Board,2025-03-05 00:00:00
+50,user123,-800.0,Coffee and snacks,food,Cafe,2025-03-06 00:00:00
